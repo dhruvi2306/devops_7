@@ -9,9 +9,7 @@ def multiply(a, b):
 
 def divide(a, b):
     if b == 0:
-        return "Error"
-    return a / b
-
+       
 
 # Sample run
 print(add(10, 5))
